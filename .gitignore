@@ -1,0 +1,13 @@
+env/
+*.pyc
+__pycache__/
+uploads/
+
+build/
+.android/
+.ios/
+.flutter-plugins*
+.flutter-plugins-dependencies
+pubspec.lock
+
+*.db
